@@ -18,10 +18,7 @@
 
 | Project | Description | Language |
 |---------|-------------|----------|
-| [🌐 Arid-Skies](https://github.com/MoovinTwo/Arid-Skies) | Client-to-client network messaging framework | Java |
-| [📦 M2Lib](https://github.com/MoovinTwo/M2Lib) | Personal package library | Lua |
-| [🎨 MC-Texture-Packs](https://github.com/MoovinTwo/MC-Texture-Packs) | Custom Minecraft texture packs | JavaScript |
-| [🤖 discord_bots](https://github.com/MoovinTwo/discord_bots) | Discord bot demos | HTML |
+| [Nothing](about:blank) | Nothing
 
 ---
 
